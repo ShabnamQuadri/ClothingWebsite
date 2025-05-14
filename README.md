@@ -35,4 +35,4 @@ Trendy-Tribe/
 ## Contact
 For inquiries, contact us at:
 - 📍 123 Fashion Street, Nagpur
-- 📞 (123) 456-7890
+- 📞 (123) 456-789
